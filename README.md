@@ -1,2 +1,2 @@
-# Finance_Tools
-Tools for quantitative financial analysis.
+# Projects
+Finance and Data Analysis personal projects.
