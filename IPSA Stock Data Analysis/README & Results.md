@@ -11,7 +11,7 @@ We can divide the project in the following steps:
 
 **Python code** for step **(1)** : [Click me](https://github.com/FedericoValenciaNaranjo/Projects/blob/main/IPSA%20Stock%20Data%20Analysis/API%20data%20download%20and%20processing%20-%20Python.ipynb)
 
-Visualization results + link, from step **(2)** can be found below.
+Visualization results preview + link, from step **(2)** can be found below.
 
 [Tableau Public Link](https://public.tableau.com/app/profile/federico.valencia/viz/IPSACompanies-TradingDashboard/IPSAAnalysis)
 ![image](https://github.com/FedericoValenciaNaranjo/Projects/assets/149633309/3d8790ea-9509-43f4-925f-eb2570e090ab)
