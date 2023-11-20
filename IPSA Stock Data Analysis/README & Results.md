@@ -1,6 +1,6 @@
 ### IPSA Stock Data Analysis
 
-The main purpose of this project is to achieve to get a data fetching engine for stock prices using Python, to then illustrate/communicate relevant performance and volatility metrics through data visualization (Tableau).
+The main purpose of this project is to achieve a data fetching engine for stock prices using Python, to then illustrate/communicate relevant performance and volatility metrics through data visualization (Tableau).
 
 For this exercise we will use historical pricing data (in CLP Currency, chilean pesos) from the biggest chilean company equities that comprise the IPSA Index. The IPSA Index, Índice de Precios Selectivo de Acciones, is a stock market index and as such is a profitability indicator, comprising the 30 most traded stocks on the Chilean Stock Exchange.
 
