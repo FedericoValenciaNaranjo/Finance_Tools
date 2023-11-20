@@ -13,4 +13,4 @@ We can divide the project in the following steps:
 
 Visualization results + link can be found below.
 
-![drive](https://drive.google.com/file/d/1LA44mzFYgsEl2Vd0uk_XHtZlcEAWYPHD/view?usp=drive_link)
+![image](https://github.com/FedericoValenciaNaranjo/Projects/assets/149633309/3d8790ea-9509-43f4-925f-eb2570e090ab)
