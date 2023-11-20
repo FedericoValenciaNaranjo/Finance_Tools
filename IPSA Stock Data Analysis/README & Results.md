@@ -13,4 +13,5 @@ We can divide the project in the following steps:
 
 Visualization results + link can be found below.
 
+[Tableau Public Link](https://public.tableau.com/app/profile/federico.valencia/viz/IPSACompanies-TradingDashboard/IPSAAnalysis)
 ![image](https://github.com/FedericoValenciaNaranjo/Projects/assets/149633309/3d8790ea-9509-43f4-925f-eb2570e090ab)
